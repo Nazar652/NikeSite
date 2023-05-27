@@ -2,25 +2,32 @@
 *{
   font-family: 'Helvetica Neue', sans-serif;
 }
-/* Finish Den */
 
-/* Start Misha */
 .gear-up{
-    font-weight: bold;
     font-size: 25px;
     margin: 25px;
 }
-.shops{
+.shops {
     display: flex;
+    justify-content: space-evenly;
 
 }
 
 .operation-button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #111111;
-  border-radius: 30px;
-  color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #111111;
+    border-radius: 30px;
+    color: white;
+}
+/* Finish Den */
+
+/* Start Misha */
+
+.O{
+    width: 20px;
+    background-color: gray;
+    border-radius: 50%;
 }
 /* Finish Misha */
