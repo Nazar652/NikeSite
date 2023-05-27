@@ -2,16 +2,15 @@
 *{
   font-family: 'Helvetica Neue', sans-serif;
 }
-/* Finish Den */
 
-/* Start Misha */
-.gear-up{
-    font-weight: bold;
-    font-size: 25px;
-    margin: 25px;
+.gear-up {
+  font-weight: bold;
+  font-size: 25px;
+  margin: 25px;
 }
-.shops{
-    display: flex;
+
+.shops {
+  display: flex;
 
 }
 
@@ -23,4 +22,8 @@
   border-radius: 30px;
   color: white;
 }
+/* Finish Den */
+
+/* Start Misha */
+
 /* Finish Misha */
