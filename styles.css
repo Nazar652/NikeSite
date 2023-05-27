@@ -7,14 +7,30 @@
     font-size: 25px;
     margin: 25px;
 }
-.shops {
+.first{
     display: flex;
-    justify-content: space-evenly;
+}
+.man {
+    display: flex;
+}
+.woman{
+    display: flex;
+}
+.top{
+    display: flex;
 
+}
+.bottom{
+    display: flex;
 }
 .O{
     width: 20px;
-    background-color: gray;
     border-radius: 50%;
+}
+.O2{
+    background: #E5E5E5;
+}
+.O1{
+    background: #F5F5F5;
 }
 /* Finish Misha */
