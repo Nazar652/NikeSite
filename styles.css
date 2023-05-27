@@ -1,5 +1,7 @@
 /* Start Den */
-
+*{
+  font-family: 'Helvetica Neue', sans-serif;
+}
 /* Finish Den */
 
 /* Start Misha */
@@ -11,5 +13,14 @@
 .shops{
     display: flex;
 
+}
+
+.operation-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111111;
+  border-radius: 30px;
+  color: white;
 }
 /* Finish Misha */
