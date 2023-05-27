@@ -1,7 +1,23 @@
 /* Start Den */
-
+.operation-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111111;
+  border-radius: 30px;
+  color: white;
+}
 /* Finish Den */
 
 /* Start Misha */
+.gear-up {
+  font-weight: bold;
+  font-size: 25px;
+  margin: 25px;
+}
 
+.shops {
+  display: flex;
+
+}
 /* Finish Misha */
