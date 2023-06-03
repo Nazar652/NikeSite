@@ -8,9 +8,67 @@
   color: white;
 }
 
+header {
+  
+}
+
 .header1 {
   display: flex;
-  
+  justify-content: space-between;
+  flex-direction: row;
+  background: #F5F5F5;
+  padding: 10px;
+}
+
+.header1 a {
+  color: #111111;
+  text-decoration: none;
+}
+
+.main-content {
+  padding: 10px 5px 10px 5px;
+  background-color: #fff;
+  text-align: center;
+  font-size: 13px;
+}
+
+.nav-bar {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.nav-bar a {
+  padding: 0 5px;
+  white-space: nowrap;
+  text-decoration: none;
+  color: #111111;
+}
+
+.logo-jordan {
+  height: 100%;
+}
+
+.header1 > * {
+  width: 240px;
+}
+
+.header2 {
+display: flex;
+}
+
+.header3 {
+display: flex;
+
+}
+* {
+  font-family: Helvetica Neue, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 /* Finish Den */
 
