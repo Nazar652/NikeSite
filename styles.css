@@ -59,6 +59,9 @@ header {
 
 .header2 {
 display: flex;
+justify-content: space-between;
+text-align: center;
+flex-direction: row;
 }
 
 .header3 {
