@@ -1,12 +1,26 @@
 /* Start Den */
+.operation-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111111;
+  border-radius: 30px;
+  color: white;
+}
 
+.header1 {
+  display: flex;
+  
+}
 /* Finish Den */
 
 /* Start Misha */
-.gear-up{
-    font-size: 25px;
-    margin: 25px;
+.gear-up {
+  font-weight: bold;
+  font-size: 25px;
+  margin: 25px;
 }
+
 .first{
     display: flex;
 }
