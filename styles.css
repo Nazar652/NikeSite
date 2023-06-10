@@ -8,10 +8,6 @@
   color: white;
 }
 
-header {
-  
-}
-
 .header1 {
   display: flex;
   justify-content: space-between;
@@ -103,10 +99,6 @@ padding: 0 25px;
   color: #111111;
 }
 
-.icon {
-  
-}
-
 .header2 >* {
   max-width: 250px;
   align-items: center;
@@ -125,7 +117,37 @@ background-color: #F5F5F5;
   margin: 0 auto;
 }
 
+.heading {
+  display: flex;
+  justify-content: center;
+}
 
+.heading-info {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+ flex-direction: column;
+}
+
+.text-p {
+ font-weight: 500;
+ font-size: 15px;
+ line-height: 24px;
+}
+
+.text-h1 {
+ font-weight: 500;
+ font-size: 56px;
+ line-height: 60px;
+ margin-bottom: 24px;
+}
+
+.button-heading {
+  display: flex;
+  gap: 50px;
+  margin-top: 30px;
+}
 
 * {
   font-family: Helvetica Neue, sans-serif;
