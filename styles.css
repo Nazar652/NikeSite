@@ -16,9 +16,10 @@
 
 /* Start Misha */
 .gear-up {
-  font-weight: bold;
+  font-weight: 500;
   font-size: 25px;
-  margin: 25px;
+  margin-left: 25px;
+  margin-bottom: 50px;
 }
 
 .first{
@@ -27,7 +28,7 @@
 }
 .man1{
     display: flex;
-    margin-right: 20px;
+    margin-right: 40px;
 }
 .woman1{
     display: flex;
@@ -52,16 +53,60 @@
 }
 .O1{
     background: #F5F5F5;
+    margin-right: 5px;
 }
 .bottom{
     display: flex;
-
 }
 .smth{
-
+    margin: 5px;
 }
-.smth1{
+.dark-text{
+    display: flex;
+    font-size: 14px;
+    font-weight: 550    ;
+    justify-content: space-between;
 }
-.smth2{
+.light-text{
+    font-size: 14px;
+    color: #757575;
+}
+.woman{
+    margin-right: 40px;
+}
+.man{
+    margin-left: 30px ;
+}
+a{
+    margin-right: 10px;
+}
+.second{
+    margin-top: 250px;
+}
+.Big_img{
+    display: flex;
+    margin-top: 20px;
+    height: 750px;
+}
+.flight{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 50px;
+}
+.built{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.third{
+    margin-top: 100px ;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.photoes{
+    display: flex;
+    justify-content: center;
 }
 /* Finish Misha */
