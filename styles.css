@@ -108,5 +108,36 @@ a{
 .photoes{
     display: flex;
     justify-content: center;
+    margin-right: 20px;
+}
+.ph{
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.sh{
+    color: #111111;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.si{
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+}
+.col{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    background-color: #111111;
+}
+.so{
+    color: rgb(255,255,255);
+    font-size: 13px;
+    margin-top:20px;
+}
+.coll1{
+    margin-top: 60px;
 }
 /* Finish Misha */
