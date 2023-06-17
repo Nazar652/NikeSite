@@ -171,6 +171,21 @@ background-color: #F5F5F5;
   transition: all 0.5s;
 }
 
+.catalog {
+  display: flex;
+  justify-content: space-between;
+}
+
+.catalog-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shop-catalog {
+  margin-right: 20px;
+}
+
 .featured {
   font-weight: 500;
   font-size: 23px;
@@ -227,6 +242,7 @@ background-color: #F5F5F5;
     height: 40px;
     border-radius: 50%;
     font-weight: 10;
+    cursor: pointer;
 }
 .O2{
     background: #E5E5E5;
