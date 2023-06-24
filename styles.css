@@ -174,6 +174,7 @@ background-color: #F5F5F5;
 .catalog {
   display: flex;
   justify-content: space-between;
+  
 }
 
 .catalog-item {
@@ -182,8 +183,24 @@ background-color: #F5F5F5;
   align-items: center;
 }
 
+.commodity-item {
+  margin-bottom: 30px;
+}
+
 .shop-catalog {
   margin-right: 20px;
+}
+
+.commodity {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 20px;
+  margin-bottom: 40px;
+}
+
+.commodity-item {
+  width: 100%;
+  display: block;
 }
 
 .featured {
