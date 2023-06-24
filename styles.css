@@ -338,9 +338,7 @@ a{
     margin-bottom: 60px;
 }
 .footer{
-    display: grid;
     background-color: #111111;
-    justify-content: space-between;
 }
 .so{
     color: #FFFFFF;
@@ -366,6 +364,8 @@ b{
 }
 .help{
     display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
 }
 .Tekstik{
     display: grid;
@@ -394,7 +394,7 @@ b{
     justify-content: space-between;
     margin-top: 40px;
     margin-left: 40px;
-    margin-bottom: 20px;
+    margin-right: 40px;
 }
 .india6{
     display: flex;
