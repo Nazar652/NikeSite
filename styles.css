@@ -230,7 +230,6 @@ background-color: #F5F5F5;
 .gear-up {
   font-weight: 500;
   font-size: 25px;
-  margin-left: 25px;
   margin-bottom: 50px;
 }
 
@@ -296,15 +295,10 @@ a{
 .second{
     margin-top: 250px;
 }
-.Big_img{
-    display: flex;
-    margin-top: 20px;
-    height: 750px;
-}
 .flight{
     display: flex;
     justify-content: center;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 50px;
 }
 .built{
@@ -340,17 +334,82 @@ a{
 .col{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 90px;
+    margin-bottom: 60px;
 }
 .footer{
-    display: flex;
+    display: grid;
     background-color: #111111;
+    justify-content: space-between;
 }
 .so{
-    color: rgb(255,255,255);
+    color: #FFFFFF;
     font-size: 13px;
     margin-top:20px;
 }
 .coll1{
     margin-top: 60px;
+    margin-left: 40px;
+}
+.coll3{
+    margin-top: 60px;
+}
+.coll2{
+    margin-top: 60px;
+}
+.sio{
+    margin-top:20px;
+    color: #7E7E7E;
+}
+b{
+    margin-left: 10px;
+}
+.help{
+    display: flex;
+}
+.Tekstik{
+    display: grid;
+    grid-template-columns: 400px 300px 550px;
+}
+.contacts{
+    margin-top: 60px;
+    margin-left: 20px;
+
+}
+.India{
+    color: #FFFFFF;
+}
+.India2{
+    color: #7E7E7E;
+}
+.India4{
+    display: flex;
+
+}
+.India5{
+    display: flex;
+}
+.India3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.india6{
+    display: flex;
+    color: #7E7E7E;
+    margin-left: 40px;
+}
+a7{
+    margin-right: 40px;
+}
+a9{
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+a10{
+    color: #7E7E7E;
+    margin-left: 30px;
 }
 /* Finish Misha */
